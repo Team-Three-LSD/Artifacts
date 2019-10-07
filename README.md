@@ -7,6 +7,8 @@ This is the repository for group **Three** in the course **Large Systems Develop
 
 [Use case diagram](<./Use case diagram/Use case diagram v3.png>)
 
-[Use case descriptions](<./Use case descriptions/Use case descriptions v3.pdf>)
+[Use case descriptions](<./Use case descriptions/Use case descriptions v4.pdf>)
 
 [Sequence diagrams](<./Sequence diagrams>)
+
+[Branching strategies]()

@@ -11,4 +11,4 @@ This is the repository for group **Three** in the course **Large Systems Develop
 
 [Sequence diagrams](<./Sequence diagrams>)
 
-[Branching strategies]()
+[Branching strategies](<./Branching Strategies.pdf>)

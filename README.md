@@ -18,3 +18,6 @@ This is the repository for group **Three** in the course **Large Systems Develop
 [Front-end repo](https://gitlab.com/lsd-three/frontend)  
 [Back-end repo](https://gitlab.com/lsd-three/backend)  
 [Contract repo](https://gitlab.com/lsd-three/Contracts)
+
+Front-end spokesperson - Jacob
+Back-end spokesperson - Elitsa

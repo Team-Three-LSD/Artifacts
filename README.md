@@ -12,3 +12,9 @@ This is the repository for group **Three** in the course **Large Systems Develop
 [Sequence diagrams](<./Sequence diagrams>)
 
 [Branching strategies](<./Branching Strategies.pdf>)
+
+----
+
+[Front-end repo](https://gitlab.com/lsd-three/frontend)
+[Back-end repo](https://gitlab.com/lsd-three/backend)
+[Contract repo](https://gitlab.com/lsd-three/Contracts)
